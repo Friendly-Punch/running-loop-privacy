@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>特定商取引法に基づく表示 — RunningLoop</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', sans-serif;
+      line-height: 1.8;
+      color: #333;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 24px 16px 48px;
+      background: #fff;
+    }
+    h1 { font-size: 1.6rem; border-bottom: 2px solid #4CAF50; padding-bottom: 8px; }
+    h2 { font-size: 1.05rem; margin-top: 0; color: #555; font-weight: normal; }
+    table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+    th, td { text-align: left; padding: 12px 14px; border-bottom: 1px solid #e0e0e0; font-size: 0.95rem; vertical-align: top; }
+    th { width: 38%; color: #555; background: #f9f9f9; font-weight: 600; }
+    a { color: #2e7d32; }
+    .updated { color: #888; font-size: 0.85rem; margin-top: 4px; }
+    .note { font-size: 0.85rem; color: #888; margin-top: 24px; }
+  </style>
+</head>
+<body>
+
+<h1>特定商取引法に基づく表示</h1>
+<p class="updated">最終更新日：2026年5月10日</p>
+
+<table>
+  <tr>
+    <th>販売事業者</th>
+    <td>Yoshiki Wada（個人）</td>
+  </tr>
+  <tr>
+    <th>所在地</th>
+    <td>石川県小松市有明町91<br>（請求があれば遅滞なく開示します）</td>
+  </tr>
+  <tr>
+    <th>連絡先</th>
+    <td><a href="mailto:yocch4hob@gmail.com">yocch4hob@gmail.com</a></td>
+  </tr>
+  <tr>
+    <th>販売価格</th>
+    <td>
+      月額プラン：¥480／月（税込）<br>
+      年額プラン：¥3,800／年（税込）
+    </td>
+  </tr>
+  <tr>
+    <th>支払方法</th>
+    <td>Apple IDに登録されたお支払い方法</td>
+  </tr>
+  <tr>
+    <th>支払時期</th>
+    <td>購入確定時に即時請求。以降、各期間終了時に自動更新・請求されます。</td>
+  </tr>
+  <tr>
+    <th>自動更新</th>
+    <td>サブスクリプションは自動的に更新されます。各期間終了の24時間前までにキャンセルしない限り、同条件で更新されます。</td>
+  </tr>
+  <tr>
+    <th>解約方法</th>
+    <td>
+      iPhoneの「設定」→「Apple ID」→「サブスクリプション」から解約できます。<br>
+      アプリを削除してもサブスクリプションは解約されません。
+    </td>
+  </tr>
+  <tr>
+    <th>返金ポリシー</th>
+    <td>返金はApple Inc.の返金ポリシーに従います。<a href="https://support.apple.com/ja-jp/118223" target="_blank">Appleサポート</a>よりお申し込みください。</td>
+  </tr>
+  <tr>
+    <th>動作環境</th>
+    <td>iOS 16以降を搭載したiPhone</td>
+  </tr>
+</table>
+
+<p class="note">
+  ※ 本アプリの課金はApple App Store経由で処理されます。<br>
+  ※ プレミアムプランの内容はアプリのバージョンアップにより変更される場合があります。
+</p>
+
+</body>
+</html>
